@@ -1,10 +1,8 @@
-### 학습 내용 기록 공간 👋
-
-
 # 학습 내용 기록 공간 👋
-> C#(WPF), 파이썬 학습 내용 정리
 
-## Summary
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun-e&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Summary
 
  - [CSharp-Study](https://github.com/yun-e/CSharp-Study): C# 학습 내용 정리
 
