@@ -1,5 +1,25 @@
 ### 학습 내용 기록 공간 👋
 
+
+# 학습 내용 기록 공간 👋
+> C#(WPF), 파이썬 학습 내용 정리
+
+## Summary
+
+ - [CSharp-Study](https://github.com/yun-e/CSharp-Study): C# 학습 내용 정리
+
+ - [WPF-Study](https://github.com/yun-e/WFP-Study): C# WPF 학습 내용 정리
+
+ - [Software-Configuration-Management](https://github.com/yun-e/Software-Configuration-Management): 형상관리툴 학습 내용 정리
+
+ - [Algorithms](https://github.com/yun-e/Algorithms): 알고리즘 학습 내용 정리
+  
+ - [Coding-Test-Study](https://github.com/yun-e/Coding-Test-Study): 코딩테스트 학습 내용 정리
+  
+ - [hello_git](https://github.com/yun-e/hello_git): test repository
+  
+ - [yun-e](https://github.com/yun-e/yun-e): for main page
+
 <!--
 **yun-e/yun-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
