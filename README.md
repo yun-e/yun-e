@@ -1,4 +1,4 @@
-### Hi there 👋
+### 학습 내용 기록 공간 👋
 
 <!--
 **yun-e/yun-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
