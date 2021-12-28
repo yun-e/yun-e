@@ -10,9 +10,9 @@
 
  - [Software-Configuration-Management](https://github.com/yun-e/Software-Configuration-Management): 형상관리툴 학습 내용 정리
 
- - [Algorithms](https://github.com/yun-e/Algorithms): 알고리즘 학습 내용 정리
+<!-- - [Algorithms](https://github.com/yun-e/Algorithms): 알고리즘 학습 내용 정리
   
- - [Coding-Test-Study](https://github.com/yun-e/Coding-Test-Study): 코딩테스트 학습 내용 정리
+ - [Coding-Test-Study](https://github.com/yun-e/Coding-Test-Study): 코딩테스트 학습 내용 정리 -->
   
  - [hello_git](https://github.com/yun-e/hello_git): test repository
   
